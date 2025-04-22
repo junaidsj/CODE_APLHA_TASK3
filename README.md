@@ -22,6 +22,13 @@ This project demonstrates how to build a simple AI-powered music generator using
 
 ---
 
+## 👨‍💻 Developed By
+
+**Junaid Ahamed**  
+_AI Intern @ CODEALPHA_  
+📅 Submitted: April 2025
+
+
 ## 📦 Installation
 
 Install the required libraries:
